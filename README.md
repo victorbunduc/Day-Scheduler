@@ -6,7 +6,7 @@
 
 * The day is shown in hour time blocks.
 
-* Each time block is color coded to indicate whether it occurs in the past (gray), present (red) or future green.
+* Each time block is color coded to indicate whether it occurs in the past (gray), present (red) or future (green).
 
 * Each time block has an input field and 'save' buttons.
 
