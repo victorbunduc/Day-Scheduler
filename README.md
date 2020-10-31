@@ -1,4 +1,6 @@
 #Work Day Scheduler
+![Screenshot 2020-10-31 113751](https://user-images.githubusercontent.com/71414528/97787630-a0068100-1b70-11eb-9ad7-4efb2091a1bb.png)
+
 
 * Make a calendar to represent the workday: 9AM-5PM.
 
