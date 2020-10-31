@@ -1,7 +1,5 @@
 #Work Day Scheduler
 
-How it Works:
-
 * Make a calendar to represent the workday: 9AM-5PM.
 
 * The day is shown in hour time blocks.
@@ -12,5 +10,5 @@ How it Works:
 
 * Appointments can be entered to a specific hour inline, and the 'save' button saves them to local storage.
 
-* This application uses [jquery](https://jquery.com/) and [moment.js](https://momentjs.com/), and [Bootstrap](https://getbootstrap.com/).
+* This application uses [jquery](https://jquery.com/) , [moment.js](https://momentjs.com/) and [Bootstrap](https://getbootstrap.com/).
 
