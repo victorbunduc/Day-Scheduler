@@ -1,5 +1,5 @@
-$(document).ready(function () {// essentially tells engine to load 1)html & 2)css first.
-    //display current day & time.
+    //Display current day & time.
+$(document).ready(function () {
     $("#currentDay").text(moment().format("MMMM Do YYYY, h:mm:ss a"));
 
     //Assign saveBtn click listener for user input and time stamp??
